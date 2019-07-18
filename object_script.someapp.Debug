@@ -1,0 +1,13 @@
+INPUT(
+./debug\dialog.o
+./debug\loading.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\title.o
+./debug\wew.o
+./debug\moc_dialog.o
+./debug\moc_loading.o
+./debug\moc_mainwindow.o
+./debug\moc_title.o
+./debug\moc_wew.o
+);
